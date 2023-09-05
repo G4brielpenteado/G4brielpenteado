@@ -2,8 +2,9 @@
 
 - Meu nome é Gabriel penteado 
 
-- Estou estudando na alura; 
+- Estou estudando na [alura ] https://cursos.alura.com.br/dashboard
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ###
+- ### Você entrar em contato comigo
+- gabrielmeira500@gmail.com

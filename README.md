@@ -2,7 +2,7 @@
 
 - Meu nome é Gabriel penteado 
 
-- Estou estudando na [alura ] https://cursos.alura.com.br/dashboard
+- Estou estudando na [alura ] 
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
